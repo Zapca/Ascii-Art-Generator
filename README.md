@@ -25,7 +25,7 @@ A sophisticated Python-based ASCII art generator that converts images and videos
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ascii-art-gen.git
+git clone https://github.com/Zapca/Ascii-Art-Generator.git
 cd ascii-art-gen
 ```
 
